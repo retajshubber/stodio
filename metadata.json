@@ -1,0 +1,6 @@
+{
+  "name": "Najd",
+  "description": "Smart Saudi university schedule, attendance registration, traffic navigation & analytics application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
